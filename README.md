@@ -18,6 +18,8 @@
 
 * In order to see whole project running, you can check my Google Drive.
 
-* My Google Drive: https://drive.google.com/drive/folders/1O_LmIbuV2p74tTmWLyHS0zeXEH6-s0Sr?usp=sharing
+* My Google Drive: https://drive.google.com/file/d/1Wgs4fjHw1tgWCbvhdym6vk3LiJJO7EFI/view?usp=drive_link
+
+* For further information about me: https://www.batuuzun.com/
 
 ![Planet](https://github.com/BatuUzun/Planets-and-Light-Sources/assets/103521291/2dec5021-d53b-4083-a2f2-539f3c7fa7ca)
